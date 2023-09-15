@@ -1,2 +1,2 @@
-url="https://dummy.supabase.co"
-api="DUMMY API"
+url="https://abtazqdtcsmessgybdzi.supabase.co"
+api="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFidGF6cWR0Y3NtZXNzZ3liZHppIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTM5NDM0NDYsImV4cCI6MjAwOTUxOTQ0Nn0.PQUCaG8w3wWTwdAvH2QSpQT1p18AfwdsLhXf_k4q3e0"
